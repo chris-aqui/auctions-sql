@@ -1,0 +1,17 @@
+{
+  "name": "10-GreatBay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greatbayData.js",
+  "scripts": {
+    "start": "node greatbayData"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
